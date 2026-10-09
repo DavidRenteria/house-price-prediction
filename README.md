@@ -1,1 +1,1 @@
-# ames-hose-prices
+# house-price-prediction
